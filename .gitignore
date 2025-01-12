@@ -84,6 +84,6 @@ nb-configuration.xml
 .DS_Store
 .project
 .pydevproject
-
+._*
 
 resource/ProgramAB/Work-E
