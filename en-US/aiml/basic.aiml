@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <aiml>
-  <category>
+  <!-- <category>
     <pattern>SALUTATIONIN</pattern>
     <template>
       <srai>apphappy</srai>
@@ -17,8 +17,8 @@
           <get name="name"/>!</li>
       </condition>
     </template>
-  </category>
-  <category>
+  </category> -->
+  <!-- <category>
     <pattern>
       <set>salutationin</set>
     </pattern>
@@ -44,7 +44,7 @@
     <template>
       <srai>SALUTATIONIN</srai>
     </template>
-  </category>
+  </category> -->
   <category>
     <pattern>MY NAME IS *</pattern>
     <template>

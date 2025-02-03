@@ -463,14 +463,13 @@
           <mrl>
             <service>python</service>
             <method>exec</method>
-            <param>i01_llm.onText("<star/>")</param>
+            <param>i01_llm.onText("<star index= "1"/> Reggie <star index= "2"/>")</param>
           </mrl>
         </oob>
         </li>
       </condition>
         </template>
 </category>
-
 <category><pattern>LARGE LANGUAGE COMMUNICATION</pattern>
   <template>
     <condition name="llm">
