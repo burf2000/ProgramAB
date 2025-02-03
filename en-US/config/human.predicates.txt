@@ -1,0 +1,15 @@
+botState:
+botname:Reggie
+emotion:happy
+face:happy
+firstinit:ok
+img:../service/img/user_unknown.png
+jsenabled:true
+lastUsername:Simon
+llm:enabled
+lockInsult:off
+name:Simon
+questionfirstinit:Would you like me to use my vision to memorise your face along your name?
+tmpname:Simon
+topic:default
+userDescription:no personal info

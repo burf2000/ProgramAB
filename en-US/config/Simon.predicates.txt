@@ -1,0 +1,15 @@
+botState:
+botname:Reggie
+emotion:happy
+face:happy
+firstinit:unknown
+firstname:Simon
+img:../service/img/user_unknown.png
+jsenabled:true
+llm:enabled
+lockInsult:off
+name:Simon
+topic:yeah stops at reggie
+userDescription:no personal info
+wake.end:1738584027017
+wake.start:1738584027017

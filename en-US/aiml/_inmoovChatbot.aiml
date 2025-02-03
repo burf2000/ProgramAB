@@ -453,6 +453,24 @@
 <template><srai>STOP YOUR GESTURE</srai></template>
 </category>
 
+<category><pattern>* REGGIE *</pattern>
+<template><condition name="llm">
+        <li value="enabled"><img src="../Llm.png"/>
+        <think>
+          <set name="topic"><star/></set>
+        </think>
+        <oob>
+          <mrl>
+            <service>python</service>
+            <method>exec</method>
+            <param>i01_llm.onText("<star/>")</param>
+          </mrl>
+        </oob>
+        </li>
+      </condition>
+        </template>
+</category>
+
 <category><pattern>LARGE LANGUAGE COMMUNICATION</pattern>
   <template>
     <condition name="llm">
